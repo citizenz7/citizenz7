@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on a portfolio in PHP/MySQL
+- 🔭 I’m currently working on a Wordpress theme.
 
 <!--
 - 🌱 I’m currently learning ...
