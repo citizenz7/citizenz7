@@ -8,7 +8,13 @@ Here are some ideas to get you started:
 
 ### ⚡ I’m looking for a training period in "Web development" from 30/10/20 to 08/01/21
 
-- 🔭 I’m currently working on a Wordpress theme.
+🔭 I’m currently working on:
+- a Wordpress theme (PHP, MySQL, Wordpress)
+- a portfolio (PHP, MySQL, Bootstrap, CSS)
+- an online music catalog (PHP, MySQL, Bootstrap, CSS)
+
+🌱 Other releases:
+- Bomberman (Javascript vanilla)
 
 <!--
 - 🌱 I’m currently learning ...
