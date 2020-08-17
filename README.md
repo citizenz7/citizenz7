@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-### 👯 I’m looking for a training period in "Web development" from 30/10/20 to 08/01/21
+### ⚡ I’m looking for a training period in "Web development" from 30/10/20 to 08/01/21
 
 - 🔭 I’m currently working on a Wordpress theme.
 
