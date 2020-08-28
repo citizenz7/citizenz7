@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on:
 - a Wordpress theme (PHP, MySQL, Wordpress)
-- a portfolio (PHP, MySQL, Bootstrap, CSS)
+- a portfolio (PHP, MySQL, Bootstrap, CSS, MVC)
 - an online music catalog (PHP, MySQL, Bootstrap, CSS)
 
 🌱 Other releases:
