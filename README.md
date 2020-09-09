@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - a Wordpress theme (PHP, MySQL, Wordpress)
 - a portfolio (PHP, MySQL, Bootstrap, CSS, MVC)
 - an online music catalog (PHP, MySQL, Bootstrap, CSS)
+- a Dasboard with PHP, MySQL (MVC + POO)
 
 🌱 Other releases:
 - Bomberman (Javascript vanilla)
