@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - a mobile application with React Native
 
 🌱 I’m currently learning:
-- React Native
+- React Native, Symfony
 
 🌱 Other releases:
 - Bomberman (Javascript vanilla)
