@@ -16,10 +16,13 @@ Here are some ideas to get you started:
 - a mobile application with React Native
 
 🌱 I’m currently learning:
-- React Native, Symfony
+- Symfony
 
 🌱 Other releases:
 - Bomberman (Javascript vanilla)
+
+⚡ Fun fact:
+- en stage Développeur web à l'ONF Nevers
 
 <!--
 - 🌱 I’m currently learning ...
