@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-🔭 I’m currently working on:
+🔭 My projects:
 - a Wordpress theme (PHP, MySQL, Wordpress)
 - a portfolio (PHP, MySQL, Bootstrap, CSS, MVC)
 - an online music catalog (PHP, MySQL, Bootstrap, CSS)
@@ -14,15 +14,13 @@ Here are some ideas to get you started:
 - a Dashboard with Symfony 5
 - a blog with Symfony 5
 - a mobile application with React Native
+- a Dashboard for a french administration
 
 🌱 I’m currently learning:
 - Symfony
 
 🌱 Other releases:
 - Bomberman (Javascript vanilla)
-
-⚡ Fun fact:
-- en stage Développeur web à l'ONF Nevers
 
 <!--
 - 🌱 I’m currently learning ...
