@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - a Dashboard for a french administration
 
 🌱 I’m currently learning:
-- Symfony
+- Symfony, Angular
 
 🌱 Other releases:
 - Bomberman (Javascript vanilla)
