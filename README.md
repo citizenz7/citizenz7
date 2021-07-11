@@ -12,14 +12,15 @@ Here are some ideas to get you started:
 - an online music catalog (PHP, MySQL, Bootstrap, CSS)
 - a Dasboard with PHP, MySQL (MVC + POO)
 - a Dashboard with Symfony 5
-- a blog with Symfony 5
+- a personnal blog with Symfony 5
 - a mobile application with React Native
-- a Dashboard for a french administration
+- a Dashboard (PHP) for a french administration
+- a complete blog platform with Symfony 5, multilingual
 
 🌱 I’m currently learning:
-- Symfony, Angular
+- Symfony
 
-🌱 Other releases:
+👯 Other releases:
 - Bomberman (Javascript vanilla)
 
 <!--
