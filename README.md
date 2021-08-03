@@ -1,10 +1,15 @@
-## Hi there 👋
+## Hello! 👋 I'm Olivier Prieur (aka citizenz)
 
 <!--
 **citizenz7/citizenz7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
+
+Welcome on my Github!
+I'm a french web developer
+
+I can speak english.
 
 🔭 My projects:
 - a Wordpress theme (PHP, MySQL, Wordpress)
@@ -17,7 +22,7 @@ Here are some ideas to get you started:
 - a Dashboard (PHP) for a french administration
 - a complete blog platform with Symfony 5, multilingual
 
-🌱 I’m currently learning:
+🌱 My prefered framework:
 - Symfony
 
 👯 Other releases:
