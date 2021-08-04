@@ -1,4 +1,4 @@
-## Hello! 👋 I'm Olivier Prieur (aka citizenz)
+## Hello! 👋 I'm Olivier Prieur (aka citizenz) :pouting_man:
 
 <!--
 **citizenz7/citizenz7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-Welcome on my Github!
+Welcome on my Github! :pray:
 I'm a french web developer
 
 I can speak english.
