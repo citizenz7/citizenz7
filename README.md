@@ -27,6 +27,7 @@ I speak french :fr: and english :gb:
 - a complete blog platform with Symfony 5, multilingual
 - a blog for PengolinCoin cryptocurrency with Symfony 5
 - a personal portfolio with Symfony 5
+- 
 
 🌱 My prefered framework:
 - Symfony
