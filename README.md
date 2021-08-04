@@ -35,8 +35,8 @@ I speak french :fr: and english :gb:
 - Bomberman (Javascript vanilla)
 
 📫 How to reach me:
-https://www.linkedin.com/in/oprieur-pro/
-https://twitter.com/citizenz58
+- https://www.linkedin.com/in/oprieur-pro/
+- https://twitter.com/citizenz58
 
 <!--
 - 🌱 I’m currently learning ...
