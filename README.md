@@ -1,7 +1,7 @@
 ## Hello! :wave:
 I'm Olivier Prieur (aka citizenz) :pouting_man:
 
-### [ august, 2021 ] I'm looking for a web developer jog (Symfony, PHP)
+### [ august, 2021 ] I'm looking for a web developer job (Symfony, PHP)
 You can reach me by LinkedIn (https://www.linkedin.com/in/oprieur-pro/) or directly by using the contact form on my portfolio: https://www.olivierprieur.fr/contact (french and english)
 
 <!--
