@@ -1,8 +1,4 @@
-## Hello! :wave:
-I'm Olivier Prieur (aka citizenz) :pouting_man:
-
-LinkedIn (https://www.linkedin.com/in/oprieur-pro/)
-Portfolio: https://www.olivierprieur.fr/contact (french and english)
+# Hello! :wave: I'm Olivier Prieur (aka citizenz7) :pouting_man:
 
 <!--
 **citizenz7/citizenz7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +23,6 @@ I speak french :fr: and english :gb:
 - a complete blog platform with Symfony 5, multilingual
 - a blog for PengolinCoin cryptocurrency with Symfony 5
 - a personal portfolio with Symfony 5
-- 
 
 🌱 My prefered framework:
 - Symfony
@@ -35,10 +30,26 @@ I speak french :fr: and english :gb:
 👯 Other releases:
 - Bomberman (Javascript vanilla)
 
+😄 I’m currently learning:
+- Symfony
+- Docker
+- Javascript
+- ...
+
+💬 My side projects:
+- PengolinCoin: https://www.pengolincoin.xyz - This is a Proof of Stake (PoS), open source, decentralized blockchain-based cryptocurrency with shielded transactions for a real-world utilization... 
+- TokenHive: https://www.tokenhive.xyz/ - This is a Multi blockchains & tokens listing tracker...
+
+🌱 My Portfolio: 
+- https://www.olivierprieur.fr
+
+💬 My blog: 
+- https://www.citizenz.info
+
 📫 How to reach me:
 - https://www.linkedin.com/in/oprieur-pro/
-- https://www.olivierprieur.fr/contact
 - https://twitter.com/citizenz58
+- https://www.olivierprieur.fr/contact
 
 <!--
 - 🌱 I’m currently learning ...
