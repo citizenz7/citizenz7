@@ -11,6 +11,7 @@ I'm a french ✨ web developer ✨
 
 I speak french :fr: and english :gb:
 
+<!--
 🔭 My projects:
 - a Wordpress theme (PHP, MySQL, Wordpress)
 - a portfolio (PHP, MySQL, Bootstrap, CSS, MVC)
@@ -23,22 +24,24 @@ I speak french :fr: and english :gb:
 - a complete blog platform with Symfony 5, multilingual
 - a blog for PengolinCoin cryptocurrency with Symfony 5
 - a personal portfolio with Symfony 5
+-->
 
 🌱 My prefered framework:
 - Symfony
 
+<!--
 👯 Other releases:
 - Bomberman (Javascript vanilla)
+-->
 
-😄 I’m currently learning:
+😄 I’m currently working with:
 - Symfony
 - Docker
-- Javascript
+- Sylius
 - ...
 
 💬 My side projects:
 - PengolinCoin: https://www.pengolincoin.xyz - This is a Proof of Stake (PoS), open source, decentralized blockchain-based cryptocurrency with shielded transactions for a real-world utilization... 
-- TokenHive: https://www.tokenhive.xyz/ - This is a Multi blockchains & tokens listing tracker...
 
 🌱 My Portfolio: 
 - https://www.olivierprieur.fr
