@@ -7,7 +7,8 @@ Here are some ideas to get you started:
 -->
 
 Welcome on my Github! :pray:
-I'm a french ✨ web developer ✨
+
+### I'm a french ✨ Backend Symfony web developer ✨
 
 I speak french :fr: and english :gb:
 
@@ -34,11 +35,13 @@ I speak french :fr: and english :gb:
 - Bomberman (Javascript vanilla)
 -->
 
+<!--
 😄 I’m currently working with:
 - Symfony
 - Docker
 - Sylius
 - ...
+-->
 
 💬 My side projects:
 - PengolinCoin: https://www.pengolincoin.xyz - This is a Proof of Stake (PoS), open source, decentralized blockchain-based cryptocurrency with shielded transactions for a real-world utilization... 
