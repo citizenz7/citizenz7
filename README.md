@@ -16,9 +16,7 @@ Welcome on my Github! :pray:
 
 I speak french :fr: and english :gb:
 
-<!--
-![Cover](https://github.com/citizenz7/citizenz7/blob/master/img/op-2021-1.jpg)
--->
+![Cover](https://github.com/citizenz7/citizenz7/blob/master/img/op-2021-2.jpg)
 
 <!--
 🔭 My projects:
