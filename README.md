@@ -1,4 +1,4 @@
-# Hello! :wave: I'm Olivier Prieur (aka citizenz7) :pouting_man:
+# Hello! I'm Olivier Prieur (aka citizenz7)
 
 <!--
 **citizenz7/citizenz7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
