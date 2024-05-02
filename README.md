@@ -11,7 +11,9 @@ Here are some ideas to get you started:
 
 Welcome on my Github! :pray:
 
-### I'm a french ✨ web developer ✨ : PHP, Symfony
+### I'm a french ✨ web developer ✨: HTML, CSS, PHP, Symfony
+
+### Gnu/Linux user: ✨ Debian, Xubuntu ✨
 
 I speak french :fr: and english :gb:
 
