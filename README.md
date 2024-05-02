@@ -2,7 +2,6 @@
 
 <!--
 **citizenz7/citizenz7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 -->
 
@@ -12,7 +11,7 @@ Here are some ideas to get you started:
 
 Welcome on my Github! :pray:
 
-### I'm a french ✨ Backend Symfony web developer ✨
+### I'm a french ✨ web developer ✨ : PHP, Symfony
 
 I speak french :fr: and english :gb:
 
@@ -49,8 +48,10 @@ I speak french :fr: and english :gb:
 - ...
 -->
 
+<!--
 💬 My side projects:
 - PengolinCoin: https://www.pengolincoin.xyz - This is a Proof of Stake (PoS), open source, decentralized blockchain-based cryptocurrency with shielded transactions for a real-world utilization... 
+-->
 
 🌱 My Portfolio: 
 - https://www.olivierprieur.fr
@@ -60,7 +61,7 @@ I speak french :fr: and english :gb:
 
 📫 How to reach me:
 - https://www.linkedin.com/in/oprieur-pro/
-- https://twitter.com/citizenz58
+<!-- - https://twitter.com/citizenz58 -->
 - https://www.olivierprieur.fr/contact
 
 <!--
