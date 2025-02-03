@@ -64,7 +64,7 @@ I speak french :fr: and english :gb:
 📫 How to reach me:
 - https://www.linkedin.com/in/oprieur-pro/
 <!-- - https://twitter.com/citizenz58 -->
-- https://www.olivierprieur.fr/contact
+- [https://www.olivierprieur.fr, Contact form](https://www.olivierprieur.fr/#contact)
 
 <!--
 - 🌱 I’m currently learning ...
