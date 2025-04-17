@@ -11,28 +11,13 @@ Here are some ideas to get you started:
 
 Welcome on my Github! :pray:
 
-### I'm a french ✨ web developer ✨: HTML, CSS, PHP, Symfony, Wordpress
+### I'm a french ✨ web developer ✨: HTML, CSS, PHP, JS, Symfony, NuxtJS
 
 ### Gnu/Linux user: ✨ Debian, Ubuntu ✨
 
 I speak french :fr: and english :gb:
 
 ![Cover](https://github.com/citizenz7/citizenz7/blob/master/img/op-2021-3.jpg)
-
-<!--
-🔭 My projects:
-- a Wordpress theme (PHP, MySQL, Wordpress)
-- a portfolio (PHP, MySQL, Bootstrap, CSS, MVC)
-- an online music catalog (PHP, MySQL, Bootstrap, CSS)
-- a Dasboard with PHP, MySQL (MVC + POO)
-- a Dashboard with Symfony 5
-- a personnal blog with Symfony 5
-- a mobile application with React Native
-- a Dashboard (PHP) for a french administration
-- a complete blog platform with Symfony 5, multilingual
-- a blog for PengolinCoin cryptocurrency with Symfony 5
-- a personal portfolio with Symfony 5
--->
 
 🌱 My prefered framework:
 - Symfony
